@@ -8,6 +8,6 @@ Currently the five files (one for each sprint) hold a number of questions alread
 
 ### Creating your own reflections repo
 
-Follow the instructions during sprint 1 to fork this repo to your own github account. Once there you can clone it down to your own computer and push any changes up to github for your facilitators to see, or edit it directly on your github account.
+Follow the instructions during sprint 1 to fork this repo to your own github account. Once there you can clone it down to your own computer and push any changes up to your github for your facilitators to see, or edit it directly on github.
 
 *NB:* This has been created as a private repo so will not be viewable to anyone outside of foundations.
