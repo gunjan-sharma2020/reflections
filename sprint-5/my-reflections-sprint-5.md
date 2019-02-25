@@ -42,4 +42,3 @@ In addition to the challenge specific reflections, answer the following question
 
 - Do you feel like a programmer? If yes; why? If no; why not?
 
-

@@ -20,5 +20,3 @@ In addition to the challenge specific reflections, answer the following question
 
 
 - Did you hear a self critical voice in your head throughout the process of learning during this sprint? What did it say to you? Do you believe what it said?
-
-

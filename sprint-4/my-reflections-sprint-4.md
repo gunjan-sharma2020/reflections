@@ -28,5 +28,3 @@ In addition to the challenge specific reflections, answer the following question
 
 
 - What is Javascript?
-
-
