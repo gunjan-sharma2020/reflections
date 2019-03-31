@@ -2,19 +2,7 @@
 
 This is for you to fill in at the end of the sprint to make sure everything has been completed.
 
-## Instructions
-#### GitHub:
-1. Open this file for editing by clicking on the little pencil button in the bar above this file (in the right corner).
-2. To mark something as done, put an x in between the `[ ]` in the edit view
-3. Once you've marked all the appropriate boxes, save your changes.
-4. Pull these saved changes down to your master branch using `git pull origin master`
-
-#### VS Code:
-1. Open this file in VS Code (using a terminal command such as `code .` when in the reflections folder)
-2. To mark something as done, put an x in between the `[ ]` in the edit view
-3. Once you've marked all the appropriate boxes, save your changes.
-4. Add, commit, and thenpush your changes back to GitHub using `git push origin master`
-
+To mark something as done, put an x in between the `[ ]` when in the edit view
 
 #### Example
 - [ ] incomplete
