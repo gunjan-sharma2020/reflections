@@ -1,26 +1,24 @@
 # My Reflections - Sprint Three 
 
-In addition to the challenge specific reflections, answer the following questions in your reflection:
+In addition to the challenge specific reflections, answer the following questions:
 
-
-- How confident are you with each of the Learning Competencies?
-
-
-
-- Which parts of the this sprint made you feel cool?
+### How confident are you with each of the Learning Competencies?
 
 
 
-- Which parts of this sprint made you angry?
+### Which parts of the this sprint made you feel cool?
 
 
 
-- How many times during this sprint did you want to give up? Why didn't you? Do you still think you might give up?
+### Which parts of this sprint made you angry?
 
 
 
-- Do you still want to be a programmer? Why?
+### How many times during this sprint did you want to give up? Why didn't you? Do you still think you might give up?
 
+
+
+### Do you still want to be a programmer? Why?
 
 
 

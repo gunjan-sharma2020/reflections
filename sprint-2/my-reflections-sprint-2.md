@@ -1,6 +1,6 @@
 # My Reflections - Sprint Two 
 
-In addition to the challenge specific reflections, answer the following questions in your reflection:
+In addition to the challenge specific reflections, answer the following questions:
 
 ### How confident are you with each of the Learning Competencies from this sprint?
 
