@@ -25,7 +25,8 @@ This is for you to fill in at the end of the sprint to make sure everything has 
 ## Checklist
 I have:
 - [ ] created a pull request for `my-name.md` file in ko-wai-koe
-- [ ] completed Setup Blog using Git pages challenge and checked pages are live
+- [ ] completed blog setup using GitHub Pages 
+- [ ] checked that my blog pages are live
 - [ ] introduced myself on Slack
 - [ ] filled out `my-reflections-sprint-1.md`
 - [ ] filled out the feedback form
