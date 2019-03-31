@@ -12,5 +12,3 @@
 
 
 
-
-<!--  Remember to stage, commit and push your changes to GitHub -->

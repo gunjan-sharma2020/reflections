@@ -1,8 +1,8 @@
 # Command Line Primer 
 
-Copy the answers you wrote in your temporary file earlier under the sections below:
+<!-- Copy the answers you wrote in your temporary file earlier, under the sections below -->
 
-### In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
+### In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
 
 
 
