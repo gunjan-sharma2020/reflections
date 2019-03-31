@@ -16,7 +16,6 @@ I can:
 I can:
 - [ ] clone
 - [ ] fork
-- [ ] set and sync remotes
 - [ ] stage & push
 - [ ] pull
 - [ ] branch
@@ -25,7 +24,7 @@ I can:
 - [ ] make small frequent commits
 - [ ] view my git log
 
-## Design
+## Design - Stretch
 I can:
 - [ ] create wireframes
 - [ ] 'boxify' my wireframes ready for HTML & CSS creation
@@ -36,11 +35,9 @@ I can:
 - [ ] use tag attributes
 - [ ] use semantic HTML
 - [ ] create a valid HTML page structure
-- [ ] perfectly indent my HTML
-- [ ] create HTML from wireframes
+- [ ] indent my HTML
 - [ ] use HTML **only** for content, not styling
 - [ ] abstain from inline styling
-- [ ] use Content Delivery Networks (CDNs)
 
 ## CSS
 I can:
@@ -79,21 +76,17 @@ I can:
 - [ ] manipulate strings
 - [ ] manipulate arrays
 - [ ] manipulate objects
-- [ ] use prompts and alerts
 - [ ] use comments in my code
 - [ ] use if/else statements
 - [ ] use switch statements
-- [ ] use basic regular expressions
 - [ ] use 'truthy' and 'falsy' values
 - [ ] use vanilla JS to manipulate the DOM
-- [ ] use jQuery to manipulate the DOM
 - [ ] use console.log
-- [ ] perfectly indent my JS
+- [ ] indent my JS
 - [ ] use and understand scope
 - [ ] declare functions
 - [ ] explain the difference between arguments and parameters
-- [ ] return things from functions
-- [ ] use `while`/`do` loops
+- [ ] return information from functions
 - [ ] use `for` loops
 - [ ] use `map`
 - [ ] use `reduce`
@@ -111,10 +104,10 @@ I can:
   - [ ] read the error messages
   - [ ] console.log
   - [ ] google
-- [ ] ask my other students
+- [ ] recognise when I need to ask for help
+- [ ] ask my fellow students
 - [ ] ask a coach
 - [ ] reflect and learn from my experience
-- [ ] recognise when I need to ask for help
 
 ## Learning
 I can:
@@ -143,7 +136,6 @@ I can increasingly:
 - [ ] use conscious listening
 - [ ] communicate openly and honestly
 - [ ] give valuable, kind and honest feedback
-- [ ] gracefully receive feedback
 - [ ] hold integrity
 - [ ] hold kindness
 - [ ] hold effort
