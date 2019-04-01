@@ -6,8 +6,8 @@ I have:
 - [ ] added, committed, and pushed `sprint-2-technical.html`
 - [ ] added, committed, and pushed `sprint-2-cultural.html` 
 - [ ] completed `my-reflections-sprint-2.md`
-- [ ] pushed `reflections` repo to github
 - [ ] filled out the feedback form
+- [ ] pushed my `reflections` repo to github
 
 
 
