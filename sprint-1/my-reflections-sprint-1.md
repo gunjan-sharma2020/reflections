@@ -2,22 +2,182 @@
 
 In addition to the challenge specific reflections, answer the following questions:
 
-### What parts of your learning strategy worked? What problems did you face?
+# Command Line Primer 
+
+<!-- Copy the answers you wrote in your temporary file earlier, under the sections below -->
+
+### In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
 
 
 
-### How confident are you with each of the Learning Competencies?
+### Did you stick to the timebox guidelines? If not, what change would you make next time?
 
 
 
-### Which parts of the work did you enjoy?
+### Name 5 commands you used, and what they do
 
 
 
-### Which parts of the work did you find tedious?
+### Did you learn anything unexpected?
 
 
 
-### Did you hear a self critical voice in your head throughout the process of learning during this sprint? What did it say to you? Do you believe what it said?
 
+
+# Version Control with Git
+
+<!-- Copy your reflection answers into this file -->
+
+### Whats the difference between git and GitHub?
+
+
+
+### Can you think of an analogy to describe them?
+
+
+
+### Do you think you would still remember the difference a week from now if you didn't revisit the material?
+
+
+
+### Did you stick to the timebox suggestions? If not, why not?
+
+
+
+
+
+# Install and Explore Git 
+
+<!-- Copy your reflection answers into this file -->
+
+### What is a GitHub work flow?
+
+
+
+### What did you notice about your own learning? What did you do when you were confused or blocked?
+
+
+
+### Is there anything you'd do differently if you were to repeat the learning exploration again?
+
+
+
+
+# Track and Commit Primer!
+
+<!-- Copy your reflection answer into this file -->
+
+### How would you describe stage and commit to your non-tech-savvy friend?  
+
+
+
+
+
+# Branch, Pull, Merge
+
+<!-- Copy your reflection answers into this file -->
+
+### What is Master?
+
+
+
+### Why create a Branch?
+
+
+
+### Do the concepts introduced feel intuitive or difficult to understand?
+
+
+
+
+
+# GitHub Fork & Clone Curriculum Challenge
+
+<!-- Answer the following questions -->
+
+### What are some examples of when you would fork?
+
+
+
+### Write your own step-by-step fork and clone instructions. Describe what you did.
+
+
+
+### Did you have any moments where it all clicked? What clicked?
+
+
+
+
+
+# Set Remotes and Sync Fork Primer 
+
+<!-- Answer the following reflection questions -->
+
+### What is the difference between cloning from a forked or non-forked repo.
+
+
+
+### Can you think of an analogy to describe forking?
+
+
+
+### What is a remote?
+
+
+
+
+
+# Git - Setting Remotes and Syncing Forks Challenge
+
+<!-- Complete the following reflections -->
+
+### How are remotes set up?
+
+
+
+### How would you explain a remote to a non-technical person using an analogy?
+
+
+
+### How many times did you feel like "oh God I don't understand this"?
+
+
+
+
+
+# Setup new Repo & Create Blog
+
+### Reflect on this activity. When did you feel frustrated?
+
+
+
+### If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
+
+
+
+
+
+# Thinking like a programmer
+
+### Describe the process for solving problems
+
+
+
+### Will you follow that process? How?
+
+
+
+### What did you learn about flipped classroom?
+
+
+
+
+
+# Introduce yourself
+
+### What was it like trying to summarise yourself to a group of strangers? 
+
+
+
+### Could you feel your ego? Were you self conscious? 
 
