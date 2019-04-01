@@ -7,8 +7,10 @@ I have:
 - [ ] checked that `my-username.github.io/minesweeper` page is live
 - [ ] added, committed, and pushed my calculator work up to `calculator`
 - [ ] checked that `my-username.github.io/calculator` page is live
+- [ ] completed `my-reflections-sprint-5.md`
 - [ ] filled out the feedback form
-- [ ] added, committed, and pushed `my-reflections-sprint-5.md`
+- [ ] pushed my `reflections` repo to github
+
 
 
 

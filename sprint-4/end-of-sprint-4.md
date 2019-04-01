@@ -1,12 +1,14 @@
 # Sprint 4 checklist
 
 I have:
-- [ ] created a Pull Request for the Code Readability challenge
+- [ ] created a Pull Request for my tidy Zen Garden
 - [ ] messaged my Foundations Facilitator on Slack, letting them know what my Repl.it username is
 - [ ] completed as much of the JavaScript Kata Challenges as I can in the recommended time boxes
-- [ ] added, committed, and pushed `sprint-4-technical.html` 
-- [ ] added, committed, and pushed `sprint-4-cultural.html` 
-- [ ] added, committed, and pushed `my-reflections-sprint-4.md`
+- [ ] added, committed, and pushed 
+    - `sprint-4-technical.html` 
+    - `sprint-4-cultural.html` 
+- [ ] checked that my blog pages are live
+- [ ] completed `my-reflections-sprint-4.md`
 - [ ] filled out the feedback form
 - [ ] pushed my `reflections` repo to github
 

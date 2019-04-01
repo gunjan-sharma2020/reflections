@@ -2,9 +2,11 @@
 
 I have:
 - [ ] checked `my-name.github.io` is live
-- [ ] added, committed, and pushed `sprint-1-technical.html`
-- [ ] added, committed, and pushed `sprint-2-technical.html`
-- [ ] added, committed, and pushed `sprint-2-cultural.html` 
+- [ ] added, committed, and pushed:
+    - `sprint-1-technical.html`
+    - `sprint-2-technical.html`
+    - `sprint-2-cultural.html` 
+- [ ] checked that my blog pages are live
 - [ ] completed `my-reflections-sprint-2.md`
 - [ ] filled out the feedback form
 - [ ] pushed my `reflections` repo to github
