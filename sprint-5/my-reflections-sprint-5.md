@@ -1,44 +1,59 @@
 # My Reflections - Sprint Five 
 
-In addition to the challenge specific reflections, answer the following questions in your reflection:
+# Minesweeper
 
-### Do you feel more or less confident in your JavaScript skills after this sprint? What made you feel this?
-
-
-
-### Which parts of Foundations made you feel really good?
+### What was the hardest moment of this challenge for you?
 
 
 
-### Which parts of Foundations made you feel really bad?
+### Did you have any blocks during this challenge? How did you overcome them?
 
 
 
-### What did you think Foundations was going to be like before you started?
+### What learnings are you going to take away from this challenge?
 
 
 
-
-### What was Foundations actually like?
+### If _you_ were responsible for curriculum development at Dev Academy, would you change this challenge in any way? How? Why?
 
 
 
 
-### How many times during Foundations did you want to give up? What kept you going?
+
+
+# Pair Programming
+
+### Do you have any prior experience pair coding? If so, what was the experience like for you? If not, what is your initial reaction to pair programming?
 
 
 
 
-### You're going to be starting bootcamp soon. Do you feel ready? Prepared? Under prepared? How does that make you feel?
+### Do you personally think working and pairing with others will be a challenge for you during bootcamp? Why so?
 
 
 
 
-### If you received a time traveling text message from your _future_ self, 10 weeks from now, what would it say?
+
+
+# Calculator
+
+### What was the most challenging part of this calculator exercise for you?
 
 
 
+### What was a highlight?
 
-### Do you feel like a programmer? If yes; why? If no; why not?
+
+
+### Which pairing role did you enjoy most? Why?
+
+
+
+### When the pairing wasn't working well, internally did it feel like "Your Fault"? "Their Fault"? Neither? Both? Did you communicate about it?
+
+
+
+### Is this anything different you will do the next time you pair on an exercise?
+
 
 
