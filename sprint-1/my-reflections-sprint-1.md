@@ -91,7 +91,7 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-# GitHub Fork & Clone Curriculum Challenge
+# GitHub Fork & Clone
 
 <!-- Answer the following questions -->
 
@@ -109,7 +109,7 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-# Set Remotes and Sync Fork Primer 
+# Set Remotes and Sync
 
 <!-- Answer the following reflection questions -->
 
@@ -127,7 +127,7 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-# Git - Setting Remotes and Syncing Forks Challenge
+# Setting Remotes and Syncing Forks Challenge
 
 <!-- Complete the following reflections -->
 
@@ -145,7 +145,7 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-# Setup new Repo & Create Blog
+# Setup Repo & Create Blog
 
 ### Reflect on this activity. When did you feel frustrated?
 
