@@ -4,7 +4,7 @@ This repo will be what you use to record your reflections questions during found
 
 During foundations sprints you will be asked to copy and complete questions into these files relating to the primer/challenge you have just completed.
 
-Currently the files (in the folders for each sprint) hold a number of questions already. These are to be completed as you make your way through the primers and challenges, and at the very end of the sprint.
+Currently the files (that are in the folders for each sprint) hold a number of questions already. These are to be completed as you make your way through the primers and challenges, and at the very end of the sprint.
 
 ## Creating your own reflections repo
 
